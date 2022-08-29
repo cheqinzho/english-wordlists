@@ -1,36 +1,8 @@
-arm
-autumn
-bear
-beautiful
-bed
-before
-begin
-behind
-beside
-between
-big
-bike
-bicycle
-bird
-birthday
-black
-blackboard
-blue
-boat
-body
-book
-box
-boy
-bread
-breakfast
-bring
-brother
-brown
-bus
-busy
-but
-buy
-by
+arm     臂；手臂；上肢
+autumn  秋天
+
+beside 在旁边(或附近)；与…相比
+brown  棕色的；褐色的；(皮肤)棕色的，被晒黑的
 
 cake
 call
