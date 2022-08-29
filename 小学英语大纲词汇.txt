@@ -1,7 +1,4 @@
 总共：464个 
-arm     臂；手臂；上肢
-autumn  秋天
-
 beside 在旁边(或附近)；与…相比
 brown  棕色的；褐色的；(皮肤)棕色的，被晒黑的
 
@@ -27,13 +24,9 @@ dress      连衣裙；衣服
 
 exercise   运动；练习；习题
 
-fan
-favourite
+favourite  favorite和favourite主要区别是一个是英式写法，一个是美式写法。
 favorite
-feel
-foot
-feet
-fruit
+feet foot 的复数  
 
 grandfather   外公
 grandpa       爷爷
@@ -52,41 +45,21 @@ kitchen
 
 man
 men
-
-
 maths   math为美式英语，maths为英式英语，但两种形式无论在哪个国家都可以被人们理解  
-Mr
-Mrs
-Ms
-mum
-mom
+Mr      先生
+Mrs     夫人
+Ms      小姐
+mom     mom是美式英语，美国人更爱用。 mum是英式英语，英国人用得更多
 
-near
-nose
-nurse
+near      近的；接近；距离近
+nurse    护士；(旧时雇主家中的)女保育员，保姆，女仆
 
-panda
 parent
-park
-party
-PE
 physical education
-pen
-pencil
-people
-photo
-picture
-pig
-place
-plane
-plant
-play
-playground
-please
-police
+plant           植物；发电厂；工厂
+playground     (尤指学校或公园中的)游戏场，游乐场；操场
 potato
 pupil
-put
 
 
 river
