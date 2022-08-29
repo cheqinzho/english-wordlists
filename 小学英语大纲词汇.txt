@@ -5,11 +5,11 @@ autumn  秋天
 beside 在旁边(或附近)；与…相比
 brown  棕色的；褐色的；(皮肤)棕色的，被晒黑的
 
-candy
+candy    糖果；巧克力；一块糖(或巧克力)
 cap      帽子；(尤指男用有帽舌的)便帽，制服帽；软帽
-child
-children
-clever
+child    小孩；儿童；子女
+children  child 的复数 孩子们
+clever    聪明
 clothes
 cloudy
 coat      外套；外衣；大衣；(套装的)上装；动物皮毛；涂料层
@@ -49,74 +49,21 @@ juice          果汁；菜汁；果汁(或菜汁)饮料
 kid
 kind
 kitchen
-kite
-know
 
-lake
-late
-left
-leg
-lesson
-let
-library
-light
-like
-listen
-little
-live
-long
-look
-love
-lunch
-
-make
 man
 men
-many
-map
-maths
-math
-me
-meet
-milk
-minute
-Miss
-monkey
-month
-moon
-morning
-mother
-mouth
+
+
+maths   math为美式英语，maths为英式英语，但两种形式无论在哪个国家都可以被人们理解  
 Mr
 Mrs
 Ms
-much
 mum
 mom
-music
-my
 
-name
 near
-new
-next
-nice
-night
-no
-noodle
 nose
-not
-now
 nurse
-
-of
-often
-old
-on
-open
-or
-orange
-our
 
 panda
 parent
@@ -141,61 +88,27 @@ potato
 pupil
 put
 
-rain
-read
-red
-rice
-right
-river
-room
-ruler
-run
 
-sad
-say
-school
+river
+ruler
+
+
 schoolbag
 science
-season
-see
 she
 sheep
 ship
 shirt
 shoe
-shop
 short
 shorts
-sing
-sister
-sit
 skirt
-sleep
 slow
-small
-snow
-sock
-some
-sometimes
-song
-sorry
 soup
-speak
 sport
-spring
-stand
-star
-stop
 story
 street
-strong
-study
-subject
-summer
-sun
 sunny
-supermarket
-sweater
 swim
 
 take
@@ -216,4 +129,3 @@ warm
 wash
 wear
 windy
-winter
