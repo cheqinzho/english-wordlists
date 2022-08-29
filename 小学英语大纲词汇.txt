@@ -16,129 +16,35 @@ coat      外套；外衣；大衣；(套装的)上装；动物皮毛；涂料�
 cold
 colour
 color
-cook
 cool
 cousin
 cow
 crayon
 cry
 
-dad
-dance
-day
-dear
-desk
-difficult
-dinner
-dirty
-do
-doctor
-dog
-door
-down
-draw
-dress
-drink
-driver
-duck
+dirty      肮脏的；龌龊的；污秽的
+dress      连衣裙；衣服
 
-ear
-early
-easy
-eat
-egg
-elephant
-email
-English
-evening
-every
-exercise
-eye
+exercise   运动；练习；习题
 
-face
-family
 fan
-far
-farm
-farmer
-fast
-father
 favourite
 favorite
 feel
-film
-find
-fine
-fish
-floor
-flower
-fly
-food
 foot
 feet
-football
-for
-friend
-from
 fruit
 
-game
-get
-girl
-give
-go
-good
-goodbye
-bye
-grandfather
-grandpa
-grandmother
-grandma
-grass
-great
-green
+grandfather   外公
+grandpa       爷爷
+grandmother   外婆
+grandma       奶奶
+grass         草；青草；牧草
 
-hair
-half
-hand
-happy
-have
-has
-he
-head
-healthy
-hear
-heavy
-hello
-help
-her
-here
-hi
-high
-him
-his
-holiday
-home
-horse
-hospital
-hot
-hour
-house
-how
-hungry
-
-I
-ice cream
-idea
-ill
-in
+ill           生病的；有病；不舒服
 interesting
-is
-it
-its
 
-juice
-jump
+juice          果汁；菜汁；果汁(或菜汁)饮料
 
 kid
 kind
