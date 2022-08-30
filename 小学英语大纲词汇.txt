@@ -7,24 +7,18 @@ cap      帽子；(尤指男用有帽舌的)便帽，制服帽；软帽
 child    小孩；儿童；子女
 children  child 的复数 孩子们
 clever    聪明
-clothes
-cloudy
 coat      外套；外衣；大衣；(套装的)上装；动物皮毛；涂料层
-cold
-colour
-color
-cousin
-cow
-crayon
-cry
+cold      寒冷的；冷的
+colour    color是美式英语的写法，而colour是英式英语的写法
+cousin    表妹；同辈表亲(或堂亲)；堂兄(或弟、姊、妹)；表兄(或弟、姊、妹)；远房亲戚；远亲；兄弟的…国人民(对与本民族有某些类似的另一国家人民的说法)
+crayon    蜡笔；彩色铅笔(或粉笔)
 
 dirty      肮脏的；龌龊的；污秽的
 dress      连衣裙；衣服
 
 exercise   运动；练习；习题
 
-favourite  favorite和favourite主要区别是一个是英式写法，一个是美式写法。
-favorite
+favourite  favorite 美式写法 favorite 英式写法  特别喜欢的人(或物); 喜欢的事物; 最有希望获胜者(尤指马); 收藏夹;
 feet foot 的复数  
 
 grandfather   外公
@@ -34,7 +28,6 @@ grandma       奶奶
 grass         草；青草；牧草
 
 ill           生病的；有病；不舒服
-interesting
 
 juice          果汁；菜汁；果汁(或菜汁)饮料
 
@@ -54,29 +47,26 @@ near      近的；接近；距离近
 nurse    护士；(旧时雇主家中的)女保育员，保姆，女仆
 
 parent
-physical education
+physical education  PE 体育
 plant           植物；发电厂；工厂
 playground     (尤指学校或公园中的)游戏场，游乐场；操场
-potato
-pupil
+pupil        n.学生；瞳孔；弟子；(尤指)小学生；门生；眸子；瞳人
 
 ruler  尺子；统治者；直尺；支配者
 
-schoolbag
-science
-ship
+schoolbag     书包
+science        科学；自然科学；自然科学的学习与研究；理科；自然科学学科；学科，学
+ship           (大)船；舰
 shirt
-shoe
+shoe          n.鞋
 short
 shorts
 skirt
 street
-sunny
 
 there
 these  这些；这些，他们(用以说明或询问身份)
 
-toy
 trousers
 
 umbrella
