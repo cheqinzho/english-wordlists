@@ -13,7 +13,6 @@ coat      外套；外衣；大衣；(套装的)上装；动物皮毛；涂料�
 cold
 colour
 color
-cool
 cousin
 cow
 crayon
@@ -61,35 +60,21 @@ playground     (尤指学校或公园中的)游戏场，游乐场；操场
 potato
 pupil
 
-
-river
-ruler
-
+ruler  尺子；统治者；直尺；支配者
 
 schoolbag
 science
-she
-sheep
 ship
 shirt
 shoe
 short
 shorts
 skirt
-slow
-soup
-sport
-story
 street
 sunny
-swim
 
-take
-tall
 there
-these
-tired
-toilet
+these  这些；这些，他们(用以说明或询问身份)
 
 toy
 trousers
@@ -97,8 +82,3 @@ trousers
 umbrella
 
 vegetable
-
-warm
-wash
-wear
-windy
